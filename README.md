@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Manish 👋
+Aspiring Java Backend Developer
 
-<!--
-**ManishRajputLeo/ManishRajputLeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tech Stack
+- Java, Spring Boot
+- MySQL
+- REST APIs
+- Git & GitHub
 
-Here are some ideas to get you started:
+## 📌 Projects
+- FlyEase 
+- Finance Record System (Spring Boot)
+- Employee Management System
+- REST API Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/manishrajputleo
+- Email: manishrajputleo@gmail.com
