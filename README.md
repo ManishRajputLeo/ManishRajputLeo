@@ -2,7 +2,7 @@
 Aspiring Java Backend Developer
 
 ## 🚀 Tech Stack
-- Java, Spring Boot
+- Java, Spring Boot, Microservicers
 - MySQL
 - REST APIs
 - Git & GitHub
